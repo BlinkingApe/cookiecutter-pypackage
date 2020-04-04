@@ -6,10 +6,10 @@ setup(
     packages=[],
     version='0.1.1',
     description='Cookiecutter template for a Python package',
-    author='Audrey Roy Greenfeld',
+    author='Joseph Carl Tillman',
     license='BSD',
-    author_email='aroy@alum.mit.edu',
-    url='https://github.com/audreyr/cookiecutter-pypackage',
+    author_email='',
+    url='https://github.com/BlinkingApe/cookiecutter-pypackage',
     keywords=['cookiecutter', 'template', 'package', ],
     classifiers=[
         'Development Status :: 4 - Beta',
